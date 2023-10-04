@@ -1,1 +1,5 @@
-# nomadcoder_kakao_clone
+# 💻 NomadCoders Kakao Clone Challenge 💻
+
+### skills
+<p>HTML, CSS</p>
+
